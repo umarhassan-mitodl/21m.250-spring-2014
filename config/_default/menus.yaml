@@ -1,0 +1,35 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: eee6cb2f-c73d-5c5d-028a-4561dba87255
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 2cb302aa-7633-a76a-63a7-9e4e27e2c938
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 5216f24d-df08-a6f6-9650-85eedcc58189
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: d41293da-8ebb-aa72-8f1f-4b32a0e39353
+  name: Listening and Scores
+  pageRef: /pages/listening-and-scores
+  weight: 40
+- identifier: a9f8e2bf-0abc-153a-ee15-56514fecae9b
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 50
+- identifier: e8a88ffc-f11e-f245-df05-76dd587bad36
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 55f8b714-53bc-4fb4-5026-3ea0558067bd
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 70
+- identifier: df6177af-1eae-ee1d-ce1d-4c398d186695
+  name: Beethoven Concert
+  pageRef: /pages/beethoven-concert
+  weight: 80
