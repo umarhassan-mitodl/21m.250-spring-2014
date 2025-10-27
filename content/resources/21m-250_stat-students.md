@@ -4,8 +4,6 @@ description: ''
 file: /courses/21m-250-beethoven-to-mahler-spring-2014/c86b23cd291a39a72e9d5790e7d500e8_21M-250_stat-students.png
 file_size: 2839
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

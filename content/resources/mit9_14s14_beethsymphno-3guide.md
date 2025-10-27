@@ -4,8 +4,6 @@ description: ''
 file: /courses/21m-250-beethoven-to-mahler-spring-2014/c87288bb5a602761bd4c5ad7444d8519_MIT9_14S14_BeethSymphNo.3Guide.pdf
 file_size: 931852
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

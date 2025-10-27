@@ -16,7 +16,7 @@ Concert of Beethoven Sonatas
 
 ### **Ian Watson, fortepiano**
 
-This concert took place as part of the [Handel & Haydn partnership with MIT](http://handelandhaydn.org/education/for-college-students/mit-partnership/) on February 26, 2014 in Killian Hall.
+This concert took place as part of the {{% resource_link "3192c2fe-0255-4904-a46d-8dedf505b5db" "Handel & Haydn partnership with MIT" %}} on February 26, 2014 in Killian Hall.
 
 Violinist Susanna Ogata and English keyboardist Ian Watson are period-instrument specialists. Here, they demonstrate sonatas of Beethoven from a time of crisis and renewal (1801–1803) on fortepiano, a historic instrument that preceded the modern piano and sounds quite different, and period violin.
 

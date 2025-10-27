@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section lists lecture topics and contains selected class notes.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

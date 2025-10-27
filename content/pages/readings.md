@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides a list of required readings for the class.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -479,7 +477,7 @@ Mahler, "Ich bin der Welt abhanden gekommen" from _Fünf Rückertlieder._
 
 ### Helpful but not Required
 
-Taruskin, Richard. _Music in the Early Twentieth Century: The Oxford History of Western Music_. Vol. 3. Oxford University Press, 2009, pp. 1–23, 59–83, 97–129, and 599–601. ISBN: 9780195384840. \[Preview with [Google Books](http://books.google.com/books?id=JANUr3mG3kAC&pg=PA1#v=onepage)\]
+Taruskin, Richard. _Music in the Early Twentieth Century: The Oxford History of Western Music_. Vol. 3. Oxford University Press, 2009, pp. 1–23, 59–83, 97–129, and 599–601. ISBN: 9780195384840. \[Preview with {{% resource_link "407f14a9-e1d9-4eaf-b755-7a0699896830" "Google Books" %}}\]
 
 
 {{< tdclose >}}

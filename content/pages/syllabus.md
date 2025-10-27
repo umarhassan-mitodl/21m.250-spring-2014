@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   general information, listening and reading assignments, class participation, exams,
   grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -36,11 +34,11 @@ Recordings and some scores for each listening assignment are listed on the {{% r
 
 ### Recordings
 
-Recommended recordings for the assigned listening are cited on the Listening and Scores page. Performances can be heard through the [Naxos Music Library](http://www.naxosmusiclibrary.com/) and other online subscription services; check with your local public or university library for access to online music resources. Some recordings are openly available on the International Music Score Library Project ([IMSLP](http://imslp.org)) website. [Youtube](http://youtube.com) is another option for listening to performances, but the recording quality can vary.
+Recommended recordings for the assigned listening are cited on the Listening and Scores page. Performances can be heard through the {{% resource_link "2cd6765c-3b22-4e82-af0b-2865a85d2d78" "Naxos Music Library" %}} and other online subscription services; check with your local public or university library for access to online music resources. Some recordings are openly available on the International Music Score Library Project ({{% resource_link "59ba7a14-defe-4f1d-af68-38e00a8bfd77" "IMSLP" %}}) website. {{% resource_link "d21fd00f-5f75-4bab-b2cb-b9a1034cf86e" "Youtube" %}} is another option for listening to performances, but the recording quality can vary.
 
 _Scores_
 
-The required textbook contains numerous score excerpts. Many open source full scores are available on the [IMSLP](http://imslp.org) website, or you can check your local library.
+The required textbook contains numerous score excerpts. Many open source full scores are available on the {{% resource_link "59ba7a14-defe-4f1d-af68-38e00a8bfd77" "IMSLP" %}} website, or you can check your local library.
 
 Class Participation
 -------------------

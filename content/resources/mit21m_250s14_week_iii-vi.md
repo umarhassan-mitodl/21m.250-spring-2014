@@ -5,8 +5,6 @@ description: "This is a resource file that contains information regarding weeks 
 file: /courses/21m-250-beethoven-to-mahler-spring-2014/81ffd083e78d3cade360c8ebdcdeb748_MIT21M_250S14_Week_III-VI.pdf
 file_size: 141141
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
